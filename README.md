@@ -1,0 +1,1 @@
+# STM32F0 ile HMC5883L
